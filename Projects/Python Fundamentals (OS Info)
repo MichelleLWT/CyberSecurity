@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-print('Student name: Michelle Lai')
+print('Student name: Michelle')
 print('Student code: S23')
 print('Class code: CFC020823')
 print('Lecturer name: James')
